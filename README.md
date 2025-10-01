@@ -116,7 +116,7 @@ Este sistema foi desenvolvido para **fins acadêmicos e de pesquisa**. Os fatore
 
 ```bibtex
 @misc{sistema_recrutamento_2024,
-  author = {[Seu Nome]},
+  author = {[Luiz Felipe]},
   title = {O auxílio da Análise de Dados para clubes de futebol na contratação de jogadores},
   year = {2025},
   publisher = {GitHub},
